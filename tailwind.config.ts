@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Boutique-specific colors
+				boutique: {
+					pink: 'hsl(var(--boutique-pink))',
+					gold: 'hsl(var(--boutique-gold))',
+					cream: 'hsl(var(--boutique-cream))',
+					rose: 'hsl(var(--boutique-rose))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
